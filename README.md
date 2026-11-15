@@ -1,7 +1,13 @@
-# Akinshola Akinde — MIT 8103
+# Baggage Service Claim Tracker
 
-Student ID: 301837543
+Akinshola Akinde · Student ID 301837543
 
-Baggage Service Claim Tracker. Entities: BaggageClaim, Passenger, Flight, ClaimType. Each claim references one passenger, flight, and claim type. Require a nonnegative claimed-bag count with a single-row CHECK. Query claim counts by flight and type. In one transaction, create a claim and record its submission. MongoDB event logs snapshot the claim with its passenger, flight, and claim type.
+The portfolio uses fictional records for Baggage Service Claim Tracker.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Akinde_Akinshola_301837543_FinalSummary.md) · [PDF](Akinde_Akinshola_301837543_FinalSummary.pdf)
